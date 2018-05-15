@@ -41,7 +41,8 @@ The arhitecture was designed to connect the tourist hostpot to Firebase in order
 
 ![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/Arhitecture.PNG)
 
-Interface with a chose of your language 
+Interface with a chose of your own language 
+
 ![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/Interface.PNG)
 
 Bus Information from local are
