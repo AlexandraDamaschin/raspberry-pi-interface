@@ -1,4 +1,4 @@
-# BareBones
+# Salli (Super Awesome Local Live Information)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
@@ -26,3 +26,36 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## More Info About Salli
+
+Salli has it`s own logo created by us:
+
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/logoSally.png)
+
+What is Salli able to tell you about the local are?
+
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/SalliIntro.PNG)
+
+The arhitecture was designed to connect the tourist hostpot to Firebase in order to store the pictures
+
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/Arhitecture.PNG)
+
+Interface with a chose of your language 
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/Interface.PNG)
+
+Bus Information from local are
+
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/BusInfo.PNG)
+
+Places around you
+
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/Places.PNG)
+
+Top restaurants from the are
+
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/Restaurants.PNG)
+
+Weather Information
+
+![alt_text](https://github.com/AlexandraDamaschin/raspberry-pi-interface/blob/master/Weather.PNG)
